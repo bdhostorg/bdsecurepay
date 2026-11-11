@@ -2,50 +2,41 @@
 
   <!-- Official Site Logo Only -->
   <a href="https://bdsecurepay.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://bdsecurepay.com/logo.png" alt="BD Secure Pay Logo" width="280" />
+    <img src="https://bdsecurepay.com/logo.png" alt="BD Secure Pay Logo" width="290" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Animated Typing SVG Banner -->
+  <!-- Dynamic Animated Typing SVG Banner 1 (Hero Title) -->
   <a href="https://bdsecurepay.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=650&height=45&lines=BD+Secure+Pay+%E2%80%94+Next-Gen+Payment+Gateway;Instant+bKash%2C+Nagad%2C+Rocket+%26+Upay+Sync;Zero-Latency+Android+SMS+Forwarding+Daemon;Enterprise+Grade+Security+%26+99.9%25+Uptime;Automated+E-Commerce+Checkout+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00C853&center=true&vCenter=true&width=700&height=45&lines=BD+Secure+Pay+%E2%80%94+Next-Gen+Payment+Gateway;Instant+bKash%2C+Nagad%2C+Rocket+%26+Upay+Sync;Zero-Latency+Android+SMS+Forwarding+Daemon;Enterprise+Grade+Security+%26+99.9%25+Uptime;Automated+E-Commerce+Checkout+Solutions" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Shields & Badges: Android Icon & Clean Tech Badges -->
+  <!-- Shields & Badges: Android Icon & Tech Badges (Non-Linkable as Requested) -->
   <p align="center">
-    <a href="https://developer.android.com" target="_blank">
-      <img src="https://img.shields.io/badge/Android-Gateway%20Client-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Gateway" />
-    </a>
-    <a href="https://developer.android.com">
-      <img src="https://img.shields.io/badge/Min%20OS-Android%206.0%20%7C%20API%2023-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Min OS" />
-    </a>
-    <a href="https://developer.android.com">
-      <img src="https://img.shields.io/badge/Target%20OS-Android%2014%2B%20%7C%20API%2034-00E676?style=for-the-badge&logo=android&logoColor=white" alt="Target OS" />
-    </a>
-    <a href="https://bdsecurepay.com">
-      <img src="https://img.shields.io/badge/Backend-PHP%208.3%20%2F%20CI4-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Backend" />
-    </a>
-    <a href="https://bdsecurepay.com">
-      <img src="https://img.shields.io/badge/Security-TLS%201.3%20SSL-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" />
-    </a>
+    <img src="https://img.shields.io/badge/Android-Gateway%20Client-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Gateway" />
+    <img src="https://img.shields.io/badge/Min%20OS-Android%206.0%20%7C%20API%2023-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Min OS" />
+    <img src="https://img.shields.io/badge/Target%20OS-Android%2014%2B%20%7C%20API%2034-00E676?style=for-the-badge&logo=android&logoColor=white" alt="Target OS" />
+    <img src="https://img.shields.io/badge/Backend-PHP%208.3%20%2F%20CI4-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Backend" />
+    <img src="https://img.shields.io/badge/Security-TLS%201.3%20SSL-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" />
   </p>
 
   <p align="center">
     <b>High-Performance, Real-Time Android SMS & Payment Verification Daemon for the BD Secure Pay Merchant Ecosystem.</b>
   </p>
 
+  <!-- Interactive Quick Navigation -->
   <p align="center">
     <a href="#-about-bd-secure-pay"><b>🌐 About Platform</b></a> •
-    <a href="#-key-features"><b>⚡ Core Features</b></a> •
-    <a href="#-supported-mfs-providers"><b>💳 Supported Providers</b></a> •
-    <a href="#-system-architecture"><b>🏗️ Architecture</b></a> •
-    <a href="#-live-transaction-flow"><b>🖥️ Terminal Simulation</b></a> •
-    <a href="#-setup--installation-guide"><b>🚀 Setup Guide</b></a> •
-    <a href="#-247-device-persistence"><b>🔋 24/7 Persistence</b></a> •
-    <a href="#-developer-webhook-api"><b>📡 Webhook API</b></a>
+    <a href="#-animated-transaction-workflow-video-simulation"><b>🎬 Video Workflow</b></a> •
+    <a href="#-core-ecosystem-pillars"><b>⚡ Core Pillars</b></a> •
+    <a href="#-supported-mfs-channels"><b>💳 Supported Channels</b></a> •
+    <a href="#-end-to-end-architecture"><b>🏗️ Architecture</b></a> •
+    <a href="#-setup--merchant-onboarding"><b>🚀 Setup Guide</b></a> •
+    <a href="#-247-device-persistence-guide"><b>🔋 24/7 Persistence</b></a> •
+    <a href="#-contact--support"><b>📞 Contact & Support</b></a>
   </p>
 
 </div>
@@ -54,35 +45,100 @@
 
 ## 🌐 About BD Secure Pay
 
-**[BD Secure Pay](https://bdsecurepay.com)** is Bangladesh's cutting-edge automated payment gateway and merchant aggregator designed specifically for e-commerce stores, digital service providers, freelancers, and growing startups. 
+**[BD Secure Pay](https://bdsecurepay.com)** is Bangladesh's premier next-generation automated payment gateway and merchant aggregator designed specifically for e-commerce platforms, digital service agencies, SaaS providers, and freelancers.
 
-Traditional payment gateway setups in Bangladesh require lengthy merchant account applications, physical visits, and high upfront setup fees. **BD Secure Pay** revolutionizes this landscape by combining physical merchant SIM cards with cloud-native automation, allowing businesses to accept payments across all Bangladeshi Mobile Financial Services (MFS) seamlessly with **zero setup hassle and instant automated verification**.
+Traditional payment gateway integrations in Bangladesh usually entail lengthy corporate merchant approval processes, expensive setup charges, and rigid paperwork. **BD Secure Pay** revolutionizes the ecosystem by harmonizing physical Android SIM hardware with high-availability cloud servers. This empowers merchants to accept and auto-verify payments across all major Bangladeshi Mobile Financial Services (MFS) with **zero delays, 100% precision, and instantaneous order fulfillment**.
 
-### 💡 Why Merchants Choose BD Secure Pay?
+### 📊 Platform Comparison
 
-| Feature | BD Secure Pay | Traditional Manual Verification | Traditional Bank Gateways |
+| Feature Capability | BD Secure Pay | Traditional Manual Verification | Legacy Bank Gateways |
 |:---|:---:|:---:|:---:|
-| **Verification Speed** | **< 300 Milliseconds** | 5 – 30 Minutes | 2 – 5 Seconds |
-| **Setup Time** | **Instant (Under 5 Minutes)** | None | 2 – 6 Weeks |
-| **Trade License Required?** | **Optional (Personal/Merchant)** | Optional | Mandatory |
-| **Instant Balance Credit** | **Automated via Webhook** | Manual Admin Checking | Automated |
-| **Double Spend / Fraud Shield** | **Built-In TrxID Lock** | High Human Error Risk | High Fraud Protection |
-| **Supported Channels** | **bKash, Nagad, Rocket, Upay, Cellfin** | Manual | bKash, Cards only |
-| **24/7 Uninterrupted Sync** | **Continuous Automated Daemon** | Depends on Staff | Server Dependent |
+| **Verification Latency** | **< 300 Milliseconds** | 5 – 30 Minutes | 2 – 5 Seconds |
+| **Merchant Setup Time** | **Instant (Under 5 Minutes)** | None | 2 – 6 Weeks |
+| **Trade License Required?** | **Optional (Personal / Merchant)** | Optional | Mandatory |
+| **Instant Balance Credit** | **Fully Automated via Webhook** | High Manual Error Risk | Automated |
+| **Duplicate TrxID Shield** | **Cryptographic Lock** | Prone to Double Spend | Strong Anti-Fraud |
+| **Supported Channels** | **bKash, Nagad, Rocket, Upay, Cellfin** | Manual checking | Limited / Card focused |
+| **24/7 Uninterrupted Daemon** | **High-Availability Foreground Service** | Human-dependent | Server-dependent |
 
 ---
 
-## ⚡ Key Features
+## 🎬 Animated Transaction Workflow (Video Simulation)
 
-### 1. 🚀 Zero-Latency Android SMS Interception
-The **BD Secure Pay Gateway App** operates directly on an Android device connected to your merchant SIM card. Utilizing low-level Android Telephony Broadcast Receivers (`SMS_RECEIVED`), it intercepts incoming financial confirmation messages the exact millisecond they land on the SIM, without any background polling delay.
+Watch the progressive lifecycle of an automated transaction as it executes across the network in real time:
 
-### 2. 🧠 Intelligent MFS Parsing Engine
-Features a proprietary regex parser tailored to the dynamic SMS formats of Bangladesh's payment networks:
-* **bKash:** Auto-identifies *Payment*, *Cash In*, *Send Money*, extracts Sender Mobile, Amount, Net Balance, and unique TrxID.
-* **Nagad:** Parses official Nagad system SMS, capturing Transaction ID, Customer Number, and exact Received Amount.
+<div align="center">
+
+  <!-- Dynamic Typing SVG Video-Type Pipeline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00E676&background=0D1117&center=false&vCenter=true&width=750&height=130&lines=%E2%96%B6+%5B00%3A01s%5D+Customer+sends+bKash%2FNagad+payment+via+USSD+or+App;%E2%96%B6+%5B00%3A02s%5D+SIM+Hardware+intercepts+incoming+SMS+broadcast+in+%3C+50ms;%E2%96%B6+%5B00%3A03s%5D+Android+Daemon+extracts+TrxID%2C+Amount%2C+Sender+via+Regex;%E2%96%B6+%5B00%3A04s%5D+Payload+cryptographically+signed+%26+pushed+over+TLS+1.3;%E2%96%B6+%5B00%3A05s%5D+Instant+Webhook+dispatched+%E2%86%92+Order+Auto-Completed" alt="Animated Video Pipeline Simulation" />
+
+</div>
+
+### 🖥️ Real-Time Telemetry Terminal Simulation
+
+```text
+[00:00:00.012] [SMS_RECEIVER]   ==> Incoming SMS from: "bKash" on SIM 1 (Grameenphone)
+[00:00:00.015] [PARSER_ENGINE]  ==> Type: "Cash In" | TrxID: "9K28XA91LM" | Amount: 1,500.00 BDT
+[00:00:00.018] [SECURITY]       ==> Generating HMAC-SHA256 signature using Device Secret
+[00:00:00.065] [SECURE_DISPATCH] ==> POST [ENCRYPTED_GATEWAY_NODE] (HMAC-SHA256 Signed / TLS 1.3)
+[00:00:00.180] [CLOUD_RESPONSE] ==> 200 OK | Status: "MATCHED_AND_CREDITED" | Latency: 115ms
+[00:00:00.182] [WEBHOOK_SENT]   ==> Store Order #4819 marked as "Processing"
+```
+
+---
+
+## ⚡ Core Ecosystem Pillars
+
+```mermaid
+flowchart TD
+    subgraph ClientLayer ["1. Mobile Gateway Layer"]
+        A1["Android Phone (Merchant SIM)"]
+        A2["Telephony Broadcast Receiver"]
+        A3["Smart Regex Parser Engine"]
+        A4["Dual SIM & Carrier Arbitrator"]
+        A1 --> A2 --> A3 --> A4
+    end
+
+    subgraph SecurityLayer ["2. Encryption & Transport"]
+        B1["HMAC-SHA256 Payload Signature"]
+        B2["TLS 1.3 High-Grade Tunnel"]
+        B3["Heartbeat & Health Sentinel"]
+        A4 --> B1 --> B2
+        A1 -.-> B3 -.-> B2
+    end
+
+    subgraph CloudLayer ["3. BD Secure Pay Cloud Engine"]
+        C1["Anti-Collision Deduplication Shield"]
+        C2["Order Matcher & Ledger Update"]
+        C3["Merchant Balance Credit"]
+        B2 --> C1 --> C2 --> C3
+    end
+
+    subgraph IntegrationLayer ["4. E-Commerce & Webhooks"]
+        D1["WooCommerce Plugin"]
+        D2["WHMCS Auto-Provisioning"]
+        D3["Dynamic Payment Links"]
+        D4["Custom REST Webhook"]
+        C3 --> D1
+        C3 --> D2
+        C3 --> D3
+        C3 --> D4
+    end
+
+    style ClientLayer fill:#102A43,stroke:#3DDC84,stroke-width:2px,color:#fff
+    style SecurityLayer fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#fff
+    style CloudLayer fill:#0F172A,stroke:#A855F7,stroke-width:2px,color:#fff
+    style IntegrationLayer fill:#1E1B4B,stroke:#F59E0B,stroke-width:2px,color:#fff
+```
+
+### 1. 🚀 Sub-Second Android SMS Interception
+Hooks straight into Android's low-level `Telephony.SMS_RECEIVED` broadcast intent. Operates instantaneously upon SMS delivery without battery-draining continuous polling.
+
+### 2. 🧠 Intelligent MFS Parsing Matrix
+* **bKash:** Auto-distinguishes between *Cash In*, *Send Money*, and *Merchant Payment*, precisely extracting Transaction ID, Sender Mobile, and Net Received Amount.
+* **Nagad:** Parses official Nagad alerts, capturing Sender Number, TrxID, and Amount with 100% regex fidelity.
 * **DBBL Rocket:** Supports 12-digit transaction structures and sender mobile suffixes.
-* **Upay & Cellfin:** Complete dynamic regex matching for instant invoice matching.
+* **Upay & Cellfin:** Complete dynamic regex matching for multi-banking compatibility.
 
 ### 3. 🔄 Dual SIM Multi-Slot Intelligence
 * Automatically probes Dual SIM hardware slots.
@@ -91,7 +147,7 @@ Features a proprietary regex parser tailored to the dynamic SMS formats of Bangl
 
 ### 4. 🔐 Dual Authentication Pairing
 * **One-Tap Google Sign-In:** Authenticate with your merchant Google account and select your linked device name from an interactive bottom sheet.
-* **Instant QR Code Scan:** Scan your device setup QR code from your web dashboard (`bdsecurepay.com/user/devices`) for instantaneous binding.
+* **Instant QR Code Scan:** Scan your device setup QR code from your web dashboard ([bdsecurepay.com/user/devices](https://bdsecurepay.com/user/devices)) for instantaneous binding.
 
 ### 5. 🔋 Proactive Device Health Sentinel
 * **Live Heartbeat:** Reports device uptime, WiFi/Cellular signal quality, battery percentage, and phone temperature every 15 minutes.
@@ -103,9 +159,7 @@ Features a proprietary regex parser tailored to the dynamic SMS formats of Bangl
 
 ---
 
-## 💳 Supported MFS Providers
-
-The BD Secure Pay ecosystem natively processes transactions across all leading digital payment providers in Bangladesh:
+## 💳 Supported MFS Channels
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -121,9 +175,7 @@ The BD Secure Pay ecosystem natively processes transactions across all leading d
 
 ---
 
-## 🏗️ System Architecture
-
-The following sequence details how an end-customer payment is securely converted into an instant e-commerce balance credit:
+## 🏗️ End-to-End Architecture
 
 ```mermaid
 sequenceDiagram
@@ -138,7 +190,7 @@ sequenceDiagram
     MFS-->>Device: Delivers Confirmation SMS to SIM Card
     Note over Device: Telephony Broadcast Receiver triggers in < 50ms
     Device->>Device: Parse TrxID, Amount, Sender, and SIM Slot
-    Device->>Cloud: POST /api/sms/sync (Encrypted TLS 1.3 Payload)
+    Device->>Cloud: Dispatches Cryptographically Signed Payload (TLS 1.3)
     Cloud->>Cloud: Verify Device Token + Anti-Collision TrxID Check
     Cloud-->>Device: HTTP 200 OK (Sync Acknowledged)
     Cloud->>Merchant: Instant Webhook Dispatch (TrxID Verified)
@@ -147,27 +199,12 @@ sequenceDiagram
 
 ---
 
-## 🖥️ Live Transaction Flow
-
-Here is a visual representation of how the Android Gateway processes and broadcasts transactions in real time:
-
-```text
-[00:00:00.012] [SMS_RECEIVER]   ==> Incoming SMS from: "bKash" on SIM 1 (Grameenphone)
-[00:00:00.015] [PARSER_ENGINE]  ==> Type: "Cash In" | TrxID: "9K28XA91LM" | Amount: 1,500.00 BDT
-[00:00:00.018] [SECURITY]       ==> Generating HMAC-SHA256 signature using Device Secret
-[00:00:00.065] [NETWORK_DISPATCH]==> POST https://bdsecurepay.com/api/sms/sync [TLS 1.3]
-[00:00:00.180] [CLOUD_RESPONSE] ==> 200 OK | Status: "MATCHED_AND_CREDITED" | Latency: 115ms
-[00:00:00.182] [WEBHOOK_SENT]   ==> WooCommerce Order #4819 marked as "Processing"
-```
-
----
-
-## 🚀 Setup & Installation Guide
+## 🚀 Setup & Merchant Onboarding
 
 Setting up your Android phone as a high-speed payment gateway takes less than 3 minutes:
 
 ### Step 1: Install Gateway App
-> **Download Note:** Obtain the authorized Gateway Client application binary from our official releases or your [Merchant Portal](https://bdsecurepay.com/user/devices).
+> **Notice:** Obtain the authorized Gateway Client application binary from our official releases or your [Merchant Device Portal](https://bdsecurepay.com/user/devices).
 
 1. Install the APK on your dedicated Android phone.
 2. If prompted with *"Install unknown apps"*, toggle **Allow from this source**.
@@ -190,7 +227,7 @@ Choose either pairing method:
 
 ---
 
-## 🔋 24/7 Device Persistence
+## 🔋 24/7 Device Persistence Guide
 
 Android manufacturers utilize aggressive battery management policies that can terminate background processes. Follow these one-time device optimizations to guarantee **uninterrupted 24/7 uptime**:
 
@@ -229,63 +266,6 @@ Android manufacturers utilize aggressive battery management policies that can te
 
 ---
 
-## 📡 Developer Webhook API
-
-Whenever a verified payment is processed, the BD Secure Pay cloud immediately fires an HTTP `POST` webhook to your configured store URL with an authenticated JSON payload.
-
-### Webhook Event Payload Example
-
-```json
-{
-  "event": "payment.success",
-  "gateway": "bdsecurepay",
-  "timestamp": 1794328800,
-  "data": {
-    "provider": "bkash",
-    "trx_id": "9K28XA91LM",
-    "amount": "1500.00",
-    "currency": "BDT",
-    "sender_number": "017XXXXXXXX",
-    "sim_slot": 1,
-    "carrier": "Grameenphone",
-    "order_id": "ORD-94812",
-    "customer_email": "customer@example.com",
-    "payment_type": "cash_in",
-    "status": "COMPLETED"
-  },
-  "signature": "d98f7e2a9c3b4e6a1f8c0d9e2b4a7c8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c"
-}
-```
-
-### Signature Verification (PHP Example)
-
-```php
-<?php
-// Verify incoming BD Secure Pay Webhook Signature
-$payload = file_get_contents('php://input');
-$signatureHeader = $_SERVER['HTTP_X_BDSECUREPAY_SIGNATURE'] ?? '';
-$secretKey = 'your_merchant_secret_key';
-
-$expectedSignature = hash_hmac('sha256', $payload, $secretKey);
-
-if (hash_equals($expectedSignature, $signatureHeader)) {
-    $data = json_decode($payload, true);
-    $trxId = $data['data']['trx_id'];
-    $amount = $data['data']['amount'];
-    
-    // Credit customer balance or mark order as paid
-    processOrderSuccess($data['data']['order_id'], $trxId, $amount);
-    
-    http_response_code(200);
-    echo json_encode(['status' => 'success']);
-} else {
-    http_response_code(401);
-    exit('Invalid signature');
-}
-```
-
----
-
 ## 🔒 Security & Privacy Standards
 
 * **TLS 1.3 Transport Security:** Every byte exchanged between the Android client, cloud servers, and merchant webhooks is protected with high-grade TLS 1.3 / HTTPS encryption.
@@ -295,16 +275,39 @@ if (hash_equals($expectedSignature, $signatureHeader)) {
 
 ---
 
-## 🌐 Official Platform Links
+## 🌐 Real-Time Platform Links
 
 * 🏠 **Main Portal:** [https://bdsecurepay.com](https://bdsecurepay.com)
-* 📊 **Merchant Dashboard:** [https://bdsecurepay.com/user/dashboard](https://bdsecurepay.com/user/dashboard)
+* 📚 **Developer Documentation:** [https://bdsecurepay.com/developers](https://bdsecurepay.com/developers)
+* 🔑 **Merchant Login:** [https://bdsecurepay.com/login](https://bdsecurepay.com/login)
+* 📝 **Register Account:** [https://bdsecurepay.com/register](https://bdsecurepay.com/register)
 * 📱 **Device Management:** [https://bdsecurepay.com/user/devices](https://bdsecurepay.com/user/devices)
-* 📚 **API Documentation:** [https://bdsecurepay.com/docs](https://bdsecurepay.com/docs)
-* 💬 **Help & Support:** [support@bdsecurepay.com](mailto:support@bdsecurepay.com)
+* 💳 **Payment Links:** [https://bdsecurepay.com/user/paymentlink](https://bdsecurepay.com/user/paymentlink)
+* 📄 **Terms of Service:** [https://bdsecurepay.com/terms](https://bdsecurepay.com/terms)
+* 🛡️ **Privacy Policy:** [https://bdsecurepay.com/privacy](https://bdsecurepay.com/privacy)
 
 ---
 
+## 📞 Contact & Support
+
+Our technical support team is available 24/7 to assist with device pairing, integration, or custom solutions:
+
 <div align="center">
+
+  <a href="https://wa.me/8801570212139" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B8801570212139-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support" />
+  </a>
+  &nbsp;
+  <a href="tel:+8801570212139">
+    <img src="https://img.shields.io/badge/Call%20Direct-%2B8801570212139-007AFF?style=for-the-badge&logo=phone&logoColor=white" alt="Call Direct" />
+  </a>
+  &nbsp;
+  <a href="mailto:bdhost.org1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bdhost.org1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Support" />
+  </a>
+
+  <br/><br/>
+
   <sub>Copyright © 2026 BD Secure Pay. All Rights Reserved. Built for high-frequency e-commerce automation in Bangladesh.</sub>
+
 </div>
